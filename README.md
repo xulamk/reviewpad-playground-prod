@@ -2,4 +2,4 @@
 
 A Repository to demo new features on reviewpad.
 
-Demoing $hasAnyCheckRunCompleted
+Demoing $hasAnyCheckRunCompleted built-in function
