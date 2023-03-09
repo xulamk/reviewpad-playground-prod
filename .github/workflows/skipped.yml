@@ -6,7 +6,7 @@ on:
 jobs:
   skipped:   
     if: "false"
-    name: Log
+    name: Skipped
     runs-on: ubuntu-latest
     steps:
     - name: Dump GitHub context
